@@ -1,5 +1,5 @@
 # Plant_the_Seeds_MERN
-Demo Link: https://plant-the-seed.herokuapp.com/
+Demo Link: https://plant-the-seeds-client.vercel.app/
 
 ## What is it about? ##
 People are becoming more and more interested in organic farming as a result of the prevalence of genetically modified fruits and vegetables. Due to the time and space requirements of planting, many people do not have the opportunity to do so. I have therefore developed a project concept that will assist people with their needs.
